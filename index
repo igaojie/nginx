@@ -1,4 +1,4 @@
-if ($host = app.aetone.net) {
+if ($host = example.com) {
                 set $index "index.html";
         }
         if ($host != 'app.aetone.net') {
